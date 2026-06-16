@@ -11,3 +11,6 @@ FCC Tactical Dossier - Português
 - Treinamento de Engenharia Reversa: Usar o NotebookLM para destrinchar o erro exato de cada uma das 4 alternativas incorretas (distratores).
 
 - Simular Redações Nota Máxima: Fornecer os critérios de correção de conteúdo, estrutura e expressão da FCC para correções simuladas.
+
+Link do Repositório
+[![NotebookLM](https://img.shields.io/badge/NotebookLM-Acesse%20o%20Dossier-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/2dd8c9d6-313f-42e2-96fb-cd740e3d9d66)
