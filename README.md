@@ -1,29 +1,13 @@
-# FCC Tactical Dossier
+FCC Tactical Dossier - Português
+- O FCC Tactical Dossier (Português) é uma base de conhecimento otimizada para NotebookLM e ferramentas de IA, focada exclusivamente na engenharia reversa e no mapeamento do perfil de cobrança da Fundação Carlos Chagas (FCC) na disciplina de Língua Portuguesa.
 
-O FCC Tactical Dossier é uma base de conhecimento otimizada para NotebookLM e outras ferramentas de IA. O projeto centraliza resumos, questões comentadas, mapas mentais, revisões e estratégias de estudo voltadas para concursos da Fundação Carlos Chagas (FCC).
+- O objetivo deste módulo é transformar PDFs de provas anteriores, gramáticas focadas e anotações de aula em uma biblioteca inteligente capaz de prever as pegadinhas da banca e acelerar a memorização de regras sintáticas e semânticas.
 
-Seu objetivo é transformar materiais de estudo em uma biblioteca inteligente capaz de gerar aprendizado acelerado, revisões eficientes, flashcards, simulados e planos de estudo personalizados.
+🎯 Objetivos do Módulo
+- Mapear o DNA da FCC: Alimentar a IA para identificar os padrões obsessivos da banca (como reescrita de frases, concordância com sujeito posposto e voz passiva).
 
-## 📚 NotebookLM
+- Acelerar Revisões de Core Topics: Gerar resumos dinâmicos dos temas que representam mais de 70% das provas de Português da banca.
 
-Acesse o notebook principal:
+- Treinamento de Engenharia Reversa: Usar o NotebookLM para destrinchar o erro exato de cada uma das 4 alternativas incorretas (distratores).
 
-[NotebookLM](https://notebooklm.google.com/notebook/2dd8c9d6-313f-42e2-96fb-cd740e3d9d66)
-
-## 🎯 Objetivos
-
-- Organizar materiais de estudo para concursos FCC;
-- Facilitar revisões rápidas e direcionadas;
-- Gerar flashcards e resumos com IA;
-- Apoiar a preparação para concursos de tribunais e TI;
-- Construir uma base de conhecimento reutilizável e escalável.
-
-## 📂 Estrutura
-
-- Português
-- Redação
-- Tecnologia da Informação
-- Direito
-- Questões Comentadas
-- Mapas Mentais
-- Revisões Estratégicas
+- Simular Redações Nota Máxima: Fornecer os critérios de correção de conteúdo, estrutura e expressão da FCC para correções simuladas.
