@@ -1,27 +1,17 @@
-# FCC Tactical Dossier
+FCC Tactical Dossier
 
-FCC Tactical Dossier é uma base de conhecimento otimizada para NotebookLM e ferramentas de IA, reunindo resumos, questões comentadas, mapas mentais, revisões e estratégias para concursos da FCC. O objetivo é transformar materiais de estudo em uma biblioteca inteligente para gerar aprendizado, revisão e preparação personalizada.
+FCC Tactical Dossier é uma base de conhecimento otimizada para NotebookLM e outras ferramentas de IA. O objetivo é centralizar materiais de estudo para concursos da FCC (Fundação Carlos Chagas), permitindo gerar resumos, flashcards, simulados, revisões, mapas mentais e roteiros de aprendizagem personalizados.
 
-## 📚 NotebookLM
+O repositório reúne conteúdos estruturados, questões comentadas, estratégias de prova e materiais de apoio organizados para facilitar a recuperação de conhecimento por modelos de IA e potencializar a preparação para concursos públicos, especialmente nas áreas de tribunais e tecnologia da informação.
 
-Acesse o notebook principal:
+Principais recursos:
 
-[NotebookLM](COLE_AQUI_O_SEU_LINK)
+Resumos e revisões direcionadas
+Flashcards gerados por IA
+Questões comentadas
+Mapas mentais
+Guias de estudo por disciplina
+Estratégias específicas para a FCC
+Base de conhecimento compatível com NotebookLM
 
-## 🎯 Objetivos
-
-- Centralizar materiais de estudo da FCC
-- Gerar resumos e flashcards com IA
-- Criar revisões rápidas
-- Apoiar a preparação para concursos de tribunais e TI
-- Organizar conhecimento para uso no NotebookLM
-
-## 📂 Estrutura
-
-- Português
-- Raciocínio Lógico
-- Direito
-- Tecnologia da Informação
-- Redação
-- Questões Comentadas
-- Mapas Mentais
+Objetivo: transformar materiais de estudo em uma biblioteca inteligente capaz de acelerar a aprendizagem, a revisão e a preparação para aprovação em concursos públicos.
