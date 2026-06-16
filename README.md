@@ -8,7 +8,7 @@ Seu objetivo é transformar materiais de estudo em uma biblioteca inteligente ca
 
 Acesse o notebook principal:
 
-[NotebookLM]](https://notebooklm.google.com/notebook/2dd8c9d6-313f-42e2-96fb-cd740e3d9d66)
+[NotebookLM](https://notebooklm.google.com/notebook/2dd8c9d6-313f-42e2-96fb-cd740e3d9d66)
 
 ## 🎯 Objetivos
 
